@@ -1,0 +1,11 @@
+= packalg
+
+author:: Arwid Bancewicz http://arwid.ca
+version:: 1.2
+updated:: 19 Oct 2009
+
+A packing algorithm written in Java "that packs rectangular boxes of varying sizes into as many large rectangular shipping containers as required". The algorithm used is heuristic first fit decreasing. "The results should include the run-time and how efficiently the containers were packed."
+
+= License
+
+packalg is covered by the MIT License.
